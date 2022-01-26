@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\AlphaStellarCaseStudy\obj\Debug\net5.0\AlphaStellarCaseStudy.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\AlphaStellarCaseStudy\obj\Debug\net5.0\AlphaStellarCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AlphaStellarCaseStudy\obj\Debug\net5.0\AlphaStellarCaseStudy.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AlphaStellarCaseStudy\obj\Debug\net5.0\AlphaStellarCaseStudy.AssemblyInfo.cs
+C:\Users\PC\Desktop\AlphaStellarCaseStudy\obj\Debug\net5.0\AlphaStellarCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AlphaStellarCaseStudy\obj\Debug\net5.0\AlphaStellarCaseStudy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\AlphaStellarCaseStudy\obj\Debug\net5.0\AlphaStellarCaseStudy.MvcApplicationPartsAssemblyInfo.cache
